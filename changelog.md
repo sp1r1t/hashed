@@ -1,3 +1,6 @@
+# 5.1.1
+Don't serialize undefined values.
+
 # 5.1.0
 
  * Dependency updates [#135](https://github.com/tschaub/hashed/pull/135)
